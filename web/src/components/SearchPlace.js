@@ -1,5 +1,3 @@
-// SearchPlace.js
-
 import React, { useState } from "react";
 import MapContainer from "./MapContainer";
 
