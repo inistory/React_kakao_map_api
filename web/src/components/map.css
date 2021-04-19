@@ -43,3 +43,46 @@
   height: 12px;
   background: url("https://t1.daumcdn.net/localimg/localimages/07/mapapidoc/vertex_white.png");
 }
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Malgun Gothic", dotum, "돋움", sans-serif;
+  font-size: 12px;
+}
+.item {
+  position: relative;
+  border-bottom: 1px solid #888;
+  overflow: hidden;
+  cursor: pointer;
+  min-height: 65px;
+}
+.item span {
+  display: block;
+  margin-top: 4px;
+}
+.item h6 {
+  font-weight: bold;
+}
+.item h6,
+.item .info {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.item .info {
+  padding: 10px 0 10px 55px;
+}
+.info .gray {
+  color: #8a8a8a;
+}
+.info .gray {
+  color: #8a8a8a;
+}
+.info .jibun {
+  padding-left: 26px;
+  background: url(https://t1.daumcdn.net/localimg/localimages/07/mapapidoc/places_jibun.png)
+    no-repeat;
+}
+.info .tel {
+  color: #009900;
+}
