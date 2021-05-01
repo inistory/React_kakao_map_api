@@ -13,3 +13,8 @@ https://apis.map.kakao.com/web/documentation/
 3) 여러 키워드를 라디오버튼으로 선택 시 지도 선택적으로 띄우기
 
 4) 위치에 대한 정보 출력
+
+
+## Components
+MapContainer.js, MapContainer2.js : 지도 띄우기
+SearchPlace.js : 장소 찾기
