@@ -16,5 +16,7 @@ https://apis.map.kakao.com/web/documentation/
 
 
 ## Components
+
 MapContainer.js, MapContainer2.js : 지도 띄우기
+
 SearchPlace.js : 장소 찾기
